@@ -6,7 +6,8 @@ This is my collection of c utilities, ranging from dynamic arrays to ui librarie
 
 If the libraries are not from myself and are on git, they will be included via submodules, else the author will be credited in this file.
 
-## Overview
+## License
+Look into the files, not all are the same, but mostly MIT.
 
 ## ini 
 - A *tiny* ANSI C library for loading .ini config files
