@@ -1,0 +1,27 @@
+[submodule "ini"]
+	path = ini
+	url = https://github.com/rxi/ini
+[submodule "log.c"]
+	path = log.c
+	url = https://github.com/rxi/log.c
+[submodule "map"]
+	path = map
+	url = https://github.com/rxi/map
+[submodule "microui"]
+	path = microui
+	url = https://github.com/rxi/microui
+[submodule "sv"]
+	path = sv
+	url = https://github.com/tsoding/sv
+[submodule "uuid4"]
+	path = uuid4
+	url = https://github.com/rxi/uuid4
+[submodule "vec"]
+	path = vec
+	url = https://github.com/rxi/vec
+[submodule "utf8.h"]
+	path = utf8.h
+	url = https://github.com/sheredom/utf8.h
+[submodule "libbuffer"]
+	path = libbuffer
+	url = https://github.com/github/libbuffer
